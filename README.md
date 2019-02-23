@@ -1,2 +1,2 @@
 # invie-github
-Tus mejores guitarras invie-sibles - Curso Platzi
+Tus mejores guitarras Invie-sibles - Curso Platzi Github
